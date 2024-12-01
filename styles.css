@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+.hero{
+    width: 100%;
+    display: contents;
+    justify-content: left;
+    align-items: normal;
+}
+#image{
+    width: 500px;
+    height: 250px;
+    object-fit: cover;
+}
+#text{
+    position: relative;
+    object-fit: contain;
+    left: 550px;
+    bottom: 240px;
+}
+p{
+    padding: 0%;
+    color: rgb(83, 81, 81);
+    position: relative;
+    right:20px;
+}
+button:hover{
+    cursor:grabbing; 
+}
